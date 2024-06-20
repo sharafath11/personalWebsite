@@ -316,7 +316,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
- background: url("/wtspp.jpg") fixed right;
+  background: url("/wtspp.jpg") fixed right;
   background-size: cover;
   position: relative;
 }
